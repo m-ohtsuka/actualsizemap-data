@@ -8,7 +8,7 @@ OpenStreetMapから抽出・加工した山手線の線形（順序付きWGS84�
 - `yamanote/yamanote.geojson` — 山手線の環状経路一周分（内回り・外回りの片方）と基準点
 - `yamanote/SOURCE.md` — 取得日、OSMのrelation/way IDと版または取得時刻、取得方法、採用方向、加工内容、基準点
 
-（データは準備中。アプリに同梱した版と同じものを、版ごとにタグを付けて公開する）
+アプリに同梱した版と同じものを、版ごとにタグ（`yamanote-YYYYMMDD`）を付けて公開する。アプリの情報画面からは、同梱版と同名のタグへリンクする。タグは付け替えない。
 
 ## ライセンス
 © OpenStreetMap contributors
