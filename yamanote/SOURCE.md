@@ -4,8 +4,8 @@
 
 | 項目 | 内容 |
 |---|---|
-| データ版（dataVersion） | `yamanote-20261022` |
-| 生成日（UTC） | 2026-10-22 |
+| データ版（dataVersion） | `yamanote-20261022-2` |
+| 生成日（UTC） | 2026-10-23 |
 | 出典 | OpenStreetMap relation [1972920](https://www.openstreetmap.org/relation/1972920)（JR山手線 (外回り)）版 130（relationの最終更新 2026-10-08T05:49:00Z） |
 | 取得方法 | OSM API 0.6 `GET https://api.openstreetmap.org/api/0.6/relation/1972920/full.json` |
 | 取得時刻（UTC） | 2026-10-22T13:56:33Z |
@@ -15,6 +15,7 @@
 | 全長（WGS84測地線） | 34.460 km |
 | 隣接点の最大間隔 | 283.8 m |
 | 基準点 | 緯度 35.6786781、経度 139.7395448（正距円筒型の局所平面に投影した外接矩形の中心） |
+| 駅 | 30駅。relationの stop メンバー（停車位置のノード）を並び順に使い、重複（起点と終点）は1つにした。どの駅も線形の点列に含まれ、点列の中の順序が駅の並びと同じであることを確かめた |
 | ライセンス | © OpenStreetMap contributors、[ODbL 1.0](https://opendatacommons.org/licenses/odbl/1-0/)（個々の内容は [DbCL 1.0](https://opendatacommons.org/licenses/dbcl/1-0/)）。`../LICENSE.md` を参照 |
 
 ## 経路を構成するway（接続順）
@@ -244,3 +245,38 @@
 | 221 | [695796250](https://www.openstreetmap.org/way/695796250) | 17 |
 | 222 | [1527862949](https://www.openstreetmap.org/way/1527862949) | 1 |
 | 223 | [854519240](https://www.openstreetmap.org/way/854519240) | 7 |
+
+## 駅（並び順）
+
+| # | 駅名 | node ID | 版 |
+|---|---|---|---|
+| 1 | 品川 | [3589537624](https://www.openstreetmap.org/node/3589537624) | 30 |
+| 2 | 大崎 | [3708277009](https://www.openstreetmap.org/node/3708277009) | 28 |
+| 3 | 五反田 | [1593325906](https://www.openstreetmap.org/node/1593325906) | 22 |
+| 4 | 目黒 | [1593326191](https://www.openstreetmap.org/node/1593326191) | 2 |
+| 5 | 恵比寿 | [2218777508](https://www.openstreetmap.org/node/2218777508) | 26 |
+| 6 | 渋谷 | [1593485539](https://www.openstreetmap.org/node/1593485539) | 31 |
+| 7 | 原宿 | [1579675415](https://www.openstreetmap.org/node/1579675415) | 24 |
+| 8 | 代々木 | [1658981778](https://www.openstreetmap.org/node/1658981778) | 26 |
+| 9 | 新宿 | [3558156201](https://www.openstreetmap.org/node/3558156201) | 10 |
+| 10 | 新大久保 | [3708277017](https://www.openstreetmap.org/node/3708277017) | 26 |
+| 11 | 高田馬場 | [3708279825](https://www.openstreetmap.org/node/3708279825) | 26 |
+| 12 | 目白 | [3708276253](https://www.openstreetmap.org/node/3708276253) | 25 |
+| 13 | 池袋 | [3558156196](https://www.openstreetmap.org/node/3558156196) | 28 |
+| 14 | 大塚 | [1950369552](https://www.openstreetmap.org/node/1950369552) | 3 |
+| 15 | 巣鴨 | [3708277019](https://www.openstreetmap.org/node/3708277019) | 24 |
+| 16 | 駒込 | [3708276248](https://www.openstreetmap.org/node/3708276248) | 24 |
+| 17 | 田端 | [3708277022](https://www.openstreetmap.org/node/3708277022) | 28 |
+| 18 | 西日暮里 | [3708277002](https://www.openstreetmap.org/node/3708277002) | 25 |
+| 19 | 日暮里 | [1591333868](https://www.openstreetmap.org/node/1591333868) | 27 |
+| 20 | 鶯谷 | [3708279854](https://www.openstreetmap.org/node/3708279854) | 25 |
+| 21 | 上野 | [3708279849](https://www.openstreetmap.org/node/3708279849) | 25 |
+| 22 | 御徒町 | [1593268411](https://www.openstreetmap.org/node/1593268411) | 26 |
+| 23 | 秋葉原 | [3708276971](https://www.openstreetmap.org/node/3708276971) | 29 |
+| 24 | 神田 | [1593264885](https://www.openstreetmap.org/node/1593264885) | 28 |
+| 25 | 東京 | [3589537652](https://www.openstreetmap.org/node/3589537652) | 29 |
+| 26 | 有楽町 | [3708279864](https://www.openstreetmap.org/node/3708279864) | 27 |
+| 27 | 新橋 | [393101195](https://www.openstreetmap.org/node/393101195) | 29 |
+| 28 | 浜松町 | [393105021](https://www.openstreetmap.org/node/393105021) | 31 |
+| 29 | 田町 | [3708279827](https://www.openstreetmap.org/node/3708279827) | 26 |
+| 30 | 高輪ゲートウェイ | [7293401979](https://www.openstreetmap.org/node/7293401979) | 10 |

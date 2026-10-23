@@ -4,7 +4,7 @@
   {
    "type": "Feature",
    "properties": {
-    "dataVersion": "yamanote-20261022",
+    "dataVersion": "yamanote-20261022-2",
     "name": "山手線",
     "direction": "outer",
     "directionJa": "外回り",
@@ -924,6 +924,396 @@
      [139.7384749, 35.6292355],
      [139.7385067, 35.628654]
     ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "name": "品川",
+    "osmNode": 3589537624,
+    "osmNodeVersion": 30
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [139.7385067, 35.628654]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "name": "大崎",
+    "osmNode": 3708277009,
+    "osmNodeVersion": 28
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [139.728663, 35.6194747]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "name": "五反田",
+    "osmNode": 1593325906,
+    "osmNodeVersion": 22
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [139.7235645, 35.6262242]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "name": "目黒",
+    "osmNode": 1593326191,
+    "osmNodeVersion": 2
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [139.7156689, 35.6340624]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "name": "恵比寿",
+    "osmNode": 2218777508,
+    "osmNodeVersion": 26
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [139.7101042, 35.6464034]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "name": "渋谷",
+    "osmNode": 1593485539,
+    "osmNodeVersion": 31
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [139.7015858, 35.6580215]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "name": "原宿",
+    "osmNode": 1579675415,
+    "osmNodeVersion": 24
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [139.7023701, 35.6702225]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "name": "代々木",
+    "osmNode": 1658981778,
+    "osmNodeVersion": 26
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [139.7019863, 35.6839356]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "name": "新宿",
+    "osmNode": 3558156201,
+    "osmNodeVersion": 10
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [139.7002855, 35.6889594]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "name": "新大久保",
+    "osmNode": 3708277017,
+    "osmNodeVersion": 26
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [139.7001876, 35.7013028]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "name": "高田馬場",
+    "osmNode": 3708279825,
+    "osmNodeVersion": 26
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [139.7035866, 35.7126962]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "name": "目白",
+    "osmNode": 3708276253,
+    "osmNodeVersion": 25
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [139.7064126, 35.7212053]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "name": "池袋",
+    "osmNode": 3558156196,
+    "osmNodeVersion": 28
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [139.710949, 35.730257]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "name": "大塚",
+    "osmNode": 1950369552,
+    "osmNodeVersion": 3
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [139.7286102, 35.7317315]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "name": "巣鴨",
+    "osmNode": 3708277019,
+    "osmNodeVersion": 24
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [139.7394013, 35.7334579]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "name": "駒込",
+    "osmNode": 3708276248,
+    "osmNodeVersion": 24
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [139.747219, 35.7366191]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "name": "田端",
+    "osmNode": 3708277022,
+    "osmNodeVersion": 28
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [139.7617238, 35.7373845]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "name": "西日暮里",
+    "osmNode": 3708277002,
+    "osmNodeVersion": 25
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [139.766696, 35.7322151]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "name": "日暮里",
+    "osmNode": 1591333868,
+    "osmNodeVersion": 27
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [139.7704317, 35.7279885]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "name": "鶯谷",
+    "osmNode": 3708279854,
+    "osmNodeVersion": 25
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [139.7779296, 35.7217118]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "name": "上野",
+    "osmNode": 3708279849,
+    "osmNodeVersion": 25
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [139.7761427, 35.7135763]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "name": "御徒町",
+    "osmNode": 1593268411,
+    "osmNodeVersion": 26
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [139.7746504, 35.7069502]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "name": "秋葉原",
+    "osmNode": 3708276971,
+    "osmNodeVersion": 29
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [139.7730592, 35.6983647]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "name": "神田",
+    "osmNode": 1593264885,
+    "osmNodeVersion": 28
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [139.7710125, 35.6917689]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "name": "東京",
+    "osmNode": 3589537652,
+    "osmNodeVersion": 29
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [139.7666095, 35.681244]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "name": "有楽町",
+    "osmNode": 3708279864,
+    "osmNodeVersion": 27
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [139.7630598, 35.6749429]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "name": "新橋",
+    "osmNode": 393101195,
+    "osmNodeVersion": 29
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [139.7581443, 35.6661629]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "name": "浜松町",
+    "osmNode": 393105021,
+    "osmNodeVersion": 31
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [139.7570791, 35.6551083]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "name": "田町",
+    "osmNode": 3708279827,
+    "osmNodeVersion": 26
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [139.7476996, 35.6457199]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "name": "高輪ゲートウェイ",
+    "osmNode": 7293401979,
+    "osmNodeVersion": 10
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [139.7406431, 35.6354057]
    }
   }
  ]
