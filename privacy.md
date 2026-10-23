@@ -17,7 +17,9 @@ iOSアプリ「実寸マップ」（以下「本アプリ」）における、�
 - 位置情報の利用を許可しなくても、「現在地へ」以外の機能はすべて使えます。許可は、端末の「設定」アプリからいつでも変更できます。
 
 ## 通信
-本アプリが行う通信は、Appleの地図サービス（MapKit）による背景地図の読み込みだけです。この通信では、表示している地域の地図データがAppleから送られてきます。Appleによる情報の扱いは、[Appleのプライバシーポリシー](https://www.apple.com/legal/privacy/)に従います。
+本アプリが行う通信は、Appleの地図サービス（MapKit）による次の2つだけです。Appleによる情報の扱いは、[Appleのプライバシーポリシー](https://www.apple.com/legal/privacy/)に従います。
+- 背景地図の読み込み：表示している地域の地図データがAppleから送られてきます。
+- 場所の検索：「場所を検索」で入力した文字が、候補と場所を探すためにAppleに送られます。開発者には送られず、本アプリも検索した内容を保存しません。
 
 山手線の線形データ（OpenStreetMap由来）はアプリに同梱しており、実行中にダウンロードすることはありません。
 
@@ -38,6 +40,6 @@ Last updated: October 23, 2026
 
 - **No personal data collected.** ActualSizeMap has no developer server, no account or login, and no advertising, analytics, or tracking.
 - **Location.** The app uses your location only when you tap the "現在地へ" (current location) button, to move the map center there on your device. Your location is never stored or sent anywhere. The app does not use location in the background. All other features work without location permission.
-- **Network.** The only network communication is the loading of background maps by Apple's MapKit, which is subject to [Apple's Privacy Policy](https://www.apple.com/legal/privacy/). The Yamanote line data (from OpenStreetMap) is bundled with the app and is not downloaded at runtime.
+- **Network.** The app communicates only with Apple's MapKit services, which are subject to [Apple's Privacy Policy](https://www.apple.com/legal/privacy/): loading background maps, and place search (the text you type into "場所を検索" (search for a place) is sent to Apple to find suggestions and places; it is not sent to the developer, and the app does not store your searches). The Yamanote line data (from OpenStreetMap) is bundled with the app and is not downloaded at runtime.
 - **TestFlight.** When you test a beta through TestFlight, Apple provides the developer with the feedback, screenshots, and crash reports you submit, and your device and OS type. These are used only to fix bugs and improve the app.
 - **Contact.** Please contact us through [GitHub Issues](https://github.com/m-ohtsuka/actualsizemap-data/issues).
