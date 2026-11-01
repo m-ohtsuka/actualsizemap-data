@@ -9,6 +9,7 @@ OpenStreetMapから抽出・加工した物差し（路線の線形と、建造�
 - `yamanote/yamanote.geojson` — 山手線の環状経路一周分（内回り・外回りの片方）と基準点、駅の位置
 - `daisen-kofun/daisen-kofun.geojson` — 大山古墳（大仙古墳）の外形（3重の濠を含む外周）と基準点、細部（墳丘・1重目の濠の外縁）
 - `ohori-park/ohori-park.geojson` — 大濠公園の外形（公園の境界）と基準点、細部（池の外周・島・橋）
+- `tokyo-dome/tokyo-dome.geojson` — 東京ドームの外形（建物の外形）と基準点
 - 各ディレクトリの `SOURCE.md` — 取得日、OSMのrelation/way IDと版、取得時刻、取得方法、加工内容、基準点（路線は採用方向と駅、外形は細部の一覧も）
 - `privacy.md` — アプリのプライバシーポリシー（[GitHub Pagesで公開](https://m-ohtsuka.github.io/actualsizemap-data/privacy.html)）
 
