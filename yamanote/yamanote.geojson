@@ -6,6 +6,7 @@
    "properties": {
     "kind": "route",
     "name": "山手線",
+    "place": "東京都",
     "referencePoint": {
      "latitude": 35.6786781,
      "longitude": 139.7395448

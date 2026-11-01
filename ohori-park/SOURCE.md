@@ -5,6 +5,7 @@
 | 項目 | 内容 |
 |---|---|
 | 生成日（UTC） | 2026-11-01 |
+| 場所の説明 | 福岡県福岡市（メニューに出す。ADR-023） |
 | 出典 | OpenStreetMap way [23344558](https://www.openstreetmap.org/way/23344558)（大濠公園）版 20（wayの最終更新 2025-02-08T11:30:58Z） |
 | OSMのタグ | `addr:block_number=1番`、`addr:city=福岡市`、`addr:housenumber=2`、`addr:postcode=810-0051`、`addr:province=福岡県`、`addr:quarter=大濠公園`、`addr:suburb=中央区`、`architect=本多静六;永見健一`、`architect:wikidata=Q11520098;Q11550338`、`contact:phone=+81 92-741-2004`、`contact:tripadvisor=1423813`、`contact:website=https://www.ohorikouen.jp/`、`fee=no`、`leisure=park`、`name=大濠公園`、`name:en=Ōhori Park`、`name:fr=Parc Ōhori`、`name:ja-Hira=おおほりこうえん`、`name:ja-Latn=Ōhori-kōen`、`name:ko=오호리 공원`、`opening_hours=24/7`、`operator=西鉄グループ公園管理団体`、`start_date=1929-03`、`wikidata=Q846710`、`wikimedia_commons=Category:Ohori Park`、`wikipedia=ja:大濠公園` |
 | 取得方法 | OSM API 0.6 `GET https://api.openstreetmap.org/api/0.6/way/23344558/full.json` |
