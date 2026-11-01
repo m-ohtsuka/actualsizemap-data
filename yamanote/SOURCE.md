@@ -1,11 +1,10 @@
 # 山手線 線形データの出典
 
-このファイルは `tools/build_yamanote.py build` が生成する。手で編集しない。
+このファイルは `tools/build_data.py build yamanote` が生成する。手で編集しない。データ一式の版は `../catalog.json` の `dataVersion`。
 
 | 項目 | 内容 |
 |---|---|
-| データ版（dataVersion） | `yamanote-20261022-2` |
-| 生成日（UTC） | 2026-10-23 |
+| 生成日（UTC） | 2026-11-01 |
 | 出典 | OpenStreetMap relation [1972920](https://www.openstreetmap.org/relation/1972920)（JR山手線 (外回り)）版 130（relationの最終更新 2026-10-08T05:49:00Z） |
 | 取得方法 | OSM API 0.6 `GET https://api.openstreetmap.org/api/0.6/relation/1972920/full.json` |
 | 取得時刻（UTC） | 2026-10-22T13:56:33Z |

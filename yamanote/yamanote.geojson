@@ -4,17 +4,17 @@
   {
    "type": "Feature",
    "properties": {
-    "dataVersion": "yamanote-20261022-2",
+    "kind": "route",
     "name": "山手線",
-    "direction": "outer",
-    "directionJa": "外回り",
     "referencePoint": {
      "latitude": 35.6786781,
      "longitude": 139.7395448
     },
     "source": "OpenStreetMap relation 1972920 v130",
     "license": "ODbL-1.0",
-    "attribution": "© OpenStreetMap contributors"
+    "attribution": "© OpenStreetMap contributors",
+    "direction": "outer",
+    "directionJa": "外回り"
    },
    "geometry": {
     "type": "LineString",
