@@ -16,7 +16,7 @@
 | 周長（WGS84測地線） | 5.091 km |
 | 隣接点の最大間隔 | 529.8 m |
 | 基準点 | 緯度 33.5009509、経度 -82.0228502（正距円筒型の局所平面に投影した外接矩形の中心） |
-| 細部 | 36本。輪郭の内側の形が分かるwayを、1本ずつ並び順のまま線にした。つなぎ合わせ・簡略化・直線補完はしていない。上の取得方法と同じく、wayごとに OSM API 0.6 `GET https://api.openstreetmap.org/api/0.6/way/<way ID>/full.json` で取得した（取得時刻は下の表） |
+| 細部 | 36本。輪郭の内側の形が分かるwayを、1本ずつ並び順のまま線にした。つなぎ合わせ・簡略化・直線補完はしていない。上の取得方法と同じく、wayごとに OSM API 0.6 `GET https://api.openstreetmap.org/api/0.6/way/<way ID>/full.json` で取得した（取得時刻は下の表）。番号を出す細部（18本）には、OSMの`ref`をそのまま番号（`ref`）として書き出した |
 | ライセンス | © OpenStreetMap contributors、[ODbL 1.0](https://opendatacommons.org/licenses/odbl/1-0/)（個々の内容は [DbCL 1.0](https://opendatacommons.org/licenses/dbcl/1-0/)）。`../LICENSE.md` を参照 |
 
 ## 細部（並び順）

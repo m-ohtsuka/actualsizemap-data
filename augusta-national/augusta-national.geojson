@@ -76,7 +76,8 @@
     "kind": "detail",
     "name": "1番ホール",
     "osmWay": 854913181,
-    "osmWayVersion": 7
+    "osmWayVersion": 7,
+    "ref": "1"
    },
    "geometry": {
     "type": "LineString",
@@ -175,7 +176,8 @@
     "kind": "detail",
     "name": "2番ホール",
     "osmWay": 854915607,
-    "osmWayVersion": 9
+    "osmWayVersion": 9,
+    "ref": "2"
    },
    "geometry": {
     "type": "LineString",
@@ -284,7 +286,8 @@
     "kind": "detail",
     "name": "3番ホール",
     "osmWay": 854940639,
-    "osmWayVersion": 7
+    "osmWayVersion": 7,
+    "ref": "3"
    },
    "geometry": {
     "type": "LineString",
@@ -382,7 +385,8 @@
     "kind": "detail",
     "name": "4番ホール",
     "osmWay": 854940645,
-    "osmWayVersion": 8
+    "osmWayVersion": 8,
+    "ref": "4"
    },
    "geometry": {
     "type": "LineString",
@@ -489,7 +493,8 @@
     "kind": "detail",
     "name": "5番ホール",
     "osmWay": 854940652,
-    "osmWayVersion": 8
+    "osmWayVersion": 8,
+    "ref": "5"
    },
    "geometry": {
     "type": "LineString",
@@ -577,7 +582,8 @@
     "kind": "detail",
     "name": "6番ホール",
     "osmWay": 854940657,
-    "osmWayVersion": 8
+    "osmWayVersion": 8,
+    "ref": "6"
    },
    "geometry": {
     "type": "LineString",
@@ -682,7 +688,8 @@
     "kind": "detail",
     "name": "7番ホール",
     "osmWay": 854949697,
-    "osmWayVersion": 8
+    "osmWayVersion": 8,
+    "ref": "7"
    },
    "geometry": {
     "type": "LineString",
@@ -781,7 +788,8 @@
     "kind": "detail",
     "name": "8番ホール",
     "osmWay": 855188617,
-    "osmWayVersion": 11
+    "osmWayVersion": 11,
+    "ref": "8"
    },
    "geometry": {
     "type": "LineString",
@@ -878,7 +886,8 @@
     "kind": "detail",
     "name": "9番ホール",
     "osmWay": 854913182,
-    "osmWayVersion": 8
+    "osmWayVersion": 8,
+    "ref": "9"
    },
    "geometry": {
     "type": "LineString",
@@ -969,7 +978,8 @@
     "kind": "detail",
     "name": "10番ホール",
     "osmWay": 855188624,
-    "osmWayVersion": 10
+    "osmWayVersion": 10,
+    "ref": "10"
    },
    "geometry": {
     "type": "LineString",
@@ -1053,7 +1063,8 @@
     "kind": "detail",
     "name": "11番ホール",
     "osmWay": 855657864,
-    "osmWayVersion": 9
+    "osmWayVersion": 9,
+    "ref": "11"
    },
    "geometry": {
     "type": "LineString",
@@ -1145,7 +1156,8 @@
     "kind": "detail",
     "name": "12番ホール",
     "osmWay": 855657869,
-    "osmWayVersion": 6
+    "osmWayVersion": 6,
+    "ref": "12"
    },
    "geometry": {
     "type": "LineString",
@@ -1244,7 +1256,8 @@
     "kind": "detail",
     "name": "13番ホール",
     "osmWay": 855657881,
-    "osmWayVersion": 9
+    "osmWayVersion": 9,
+    "ref": "13"
    },
    "geometry": {
     "type": "LineString",
@@ -1359,7 +1372,8 @@
     "kind": "detail",
     "name": "14番ホール",
     "osmWay": 855658985,
-    "osmWayVersion": 7
+    "osmWayVersion": 7,
+    "ref": "14"
    },
    "geometry": {
     "type": "LineString",
@@ -1461,7 +1475,8 @@
     "kind": "detail",
     "name": "15番ホール",
     "osmWay": 856563246,
-    "osmWayVersion": 12
+    "osmWayVersion": 12,
+    "ref": "15"
    },
    "geometry": {
     "type": "LineString",
@@ -1571,7 +1586,8 @@
     "kind": "detail",
     "name": "16番ホール",
     "osmWay": 856563253,
-    "osmWayVersion": 7
+    "osmWayVersion": 7,
+    "ref": "16"
    },
    "geometry": {
     "type": "LineString",
@@ -1676,7 +1692,8 @@
     "kind": "detail",
     "name": "17番ホール",
     "osmWay": 856563261,
-    "osmWayVersion": 7
+    "osmWayVersion": 7,
+    "ref": "17"
    },
    "geometry": {
     "type": "LineString",
@@ -1804,7 +1821,8 @@
     "kind": "detail",
     "name": "18番ホール",
     "osmWay": 856563268,
-    "osmWayVersion": 12
+    "osmWayVersion": 12,
+    "ref": "18"
    },
    "geometry": {
     "type": "LineString",
