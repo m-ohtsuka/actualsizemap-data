@@ -1,14 +1,16 @@
 {
- "dataVersion": "data-20261114-6",
+ "dataVersion": "data-20261115",
  "items": [
   "yamanote",
   "fukuoka-expressway-loop",
   "osaka-loop",
   "meijo",
+  "lhc",
   "daisen-kofun",
   "ohori-park",
   "tokyo-dome",
   "keya-golf",
-  "augusta-national"
+  "augusta-national",
+  "suzuka-circuit"
  ]
 }

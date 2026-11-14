@@ -10,11 +10,13 @@ OpenStreetMapから抽出・加工した物差し（路線の線形と、建造�
 - `fukuoka-expressway-loop/fukuoka-expressway-loop.geojson` — 福岡高速環状線（福岡都市高速道路）の内回り一周分と基準点、出口とJCTの位置（`kind: "station"`）
 - `osaka-loop/osaka-loop.geojson` — 大阪環状線（JR西日本）の内回り一周分と基準点、駅の位置（`kind: "station"`）
 - `meijo/meijo.geojson` — 名城線（名古屋市営地下鉄）の右回り一周分と基準点、駅の位置（`kind: "station"`）
+- `lhc/lhc.geojson` — LHC（CERNの大型ハドロン衝突型加速器）のトンネルの一周分と基準点（方向・駅は無い）
 - `daisen-kofun/daisen-kofun.geojson` — 大山古墳（大仙古墳）の外形（3重の濠を含む外周）と基準点、細部（墳丘・1重目の濠の外縁）
 - `ohori-park/ohori-park.geojson` — 大濠公園の外形（公園の境界）と基準点、細部（池の外周・島・橋）
 - `tokyo-dome/tokyo-dome.geojson` — 東京ドームの外形（建物の外形）と基準点
 - `keya-golf/keya-golf.geojson` — 芥屋ゴルフ倶楽部（福岡県糸島市）の外形（コースの境界）と基準点
 - `augusta-national/augusta-national.geojson` — オーガスタ・ナショナル・ゴルフクラブ（アメリカ ジョージア州オーガスタ）の外形（クラブの敷地の境界）と基準点、細部（1〜18番のホールの線とグリーン。ホールの線には番号の `ref`）
+- `suzuka-circuit/suzuka-circuit.geojson` — 鈴鹿サーキット（三重県鈴鹿市）の外形（レースコースの区域）と基準点、細部（コースの40本の線）
 - 各ディレクトリの `SOURCE.md` — 取得日、OSMのrelation/way IDと版、取得時刻、取得方法、加工内容、基準点（路線は採用方向と駅・出口とJCT、外形は細部の一覧も）
 - `privacy.md` — 1.0.1以前のアプリが開くプライバシーポリシー（[GitHub Pagesで公開](https://m-ohtsuka.github.io/actualsizemap-data/privacy.html)）。最新は[アプリのサイト](https://actualsizemap.ootsuka.jp/privacy-policy)
 - `support.md` — 以前のサポートページ（[GitHub Pagesで公開](https://m-ohtsuka.github.io/actualsizemap-data/support.html)）。最新は[アプリのサイト](https://actualsizemap.ootsuka.jp/support)
