@@ -9,6 +9,7 @@ OpenStreetMapから抽出・加工した物差し（路線の線形と、建造�
 - `yamanote/yamanote.geojson` — 山手線の環状経路一周分（内回り・外回りの片方）と基準点、駅の位置
 - `fukuoka-expressway-loop/fukuoka-expressway-loop.geojson` — 福岡高速環状線（福岡都市高速道路）の内回り一周分と基準点、出口とJCTの位置（`kind: "station"`）
 - `osaka-loop/osaka-loop.geojson` — 大阪環状線（JR西日本）の内回り一周分と基準点、駅の位置（`kind: "station"`）
+- `meijo/meijo.geojson` — 名城線（名古屋市営地下鉄）の右回り一周分と基準点、駅の位置（`kind: "station"`）
 - `daisen-kofun/daisen-kofun.geojson` — 大山古墳（大仙古墳）の外形（3重の濠を含む外周）と基準点、細部（墳丘・1重目の濠の外縁）
 - `ohori-park/ohori-park.geojson` — 大濠公園の外形（公園の境界）と基準点、細部（池の外周・島・橋）
 - `tokyo-dome/tokyo-dome.geojson` — 東京ドームの外形（建物の外形）と基準点
